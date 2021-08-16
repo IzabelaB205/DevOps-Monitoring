@@ -1,1 +1,1 @@
-<% out.print("Hello CHANGED Tomcat Server!"); %>
+<% out.print("Hello Tomcat Server From DevOps!"); %>
